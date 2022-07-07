@@ -7,12 +7,12 @@ Norma Calvopiña
 
 Andrés Sánchez
 
-## Teorema de thevenin
+## Teorema de Thévenin
 ### 1.	OBJETIVOS
 
 **Principales**
 
- - Experimentar el teorema de thevenin
+ - Experimentar el teorema de Thévenin
  - Construir un circuito.
 
 **Específicos**
@@ -92,7 +92,7 @@ Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circui
 
 ###### _FIGURA 9_
 
-Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 4.2.
+Implemente el circuito equivalente de Thévenin agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 4.2.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/7.png)
 
@@ -131,7 +131,7 @@ Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circui
 
 ###### _FIGURA 15_
 
-Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 4.2.
+Implemente el circuito equivalente de Thévenin agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 4.2.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/13.png)
 
@@ -171,7 +171,7 @@ https://youtu.be/Qf3fwOyQK7Q
 ### 6.	CONCLUSIONES
 
  - Al momento de construir el circuito se debe tener en cuenta que tiene que conectarse correctamente los cables en el positivo y negativo de todos los instrumentos eléctricos los cuales si no se hacen correctamente pueden sufrir una disminución de la vida útil.
- - El potenciometro tiene ttres terminales el cual son un que es de laseñal de entrad, la otra es la señal de salida y la otra es terminal tierra, pero con una disposición de union entre el terminal de señal de salida con la señal de salida de tierra, el potenciometro se puede utilizarse como un componenet de resistencia variable más conocido como reostato.
+ - El potenciómetro tiene tres terminales el cual son un que es de la señal de entrada, la otra es la señal de salida y la otra es terminal tierra, pero con una disposición de unión entre el terminal de señal de salida con la señal de salida de tierra, el potenciómetro se puede utilizarse como un componente de resistencia variable más conocido como reóstato.
  - Cuando en un resistor se encuentra aplicado con el multímetro la medición de su corriente cambia el voltaje de los demás resistores que se tienen midiendo con las demás herramientas.
  _ Siempre tener la guía del sentido para poder resolver las mallas y cambia totalmente si se apaga una fuente o no, debido a que eso genera una corriente que pasa por los componentes.
  
