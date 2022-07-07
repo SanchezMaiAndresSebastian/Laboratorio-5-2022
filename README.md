@@ -109,20 +109,24 @@ Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida l
 
 
 Nota: No se tiene una fuente de 20 V y de 12 V, se reemplazó la fuente de 20 V con una fuente de 9 V y la fuente de voltaje de 12 V se reemplazó con una fuente de 5 V
- 
-### 4.	RESPUESTAS A INTERROGANTES
 
-_4.1_ Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
-_4.2_ Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.
-_4.3_ Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 4.1.
-_4.4_ Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 4.2.
-
-Tabla 4.1
 
 #### Cálculos:
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/13.png)
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/14.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/16.png)
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/17.png)
+ 
+### 4.	RESPUESTAS A INTERROGANTES
+
+#### Tabla 4.1
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/14.png)
+
+#### Tabla 4.2
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/15.png)
+
 
 
 ### 5. VIDEOS
@@ -130,8 +134,9 @@ Tabla 4.1
 https://youtu.be/Qf3fwOyQK7Q
 
 ### 6.	CONCLUSIONES
- - Se demostró que las leyes de Kirchhoff se rigen bajo los nodos que con ello se experimenta con los circuitos por ende siempre van a tener mediciones en cualquier parte del proyecto.
+
  - Al momento de construir el circuito se debe tener en cuenta que tiene que conectarse correctamente los cables en el positivo y negativo de todos los instrumentos eléctricos los cuales si no se hacen correctamente pueden sufrir una disminución de la vida útil.
+ - 
  - Cuando en un resistor se encuentra aplicado con el multímetro la medición de su corriente cambia el voltaje de los demás resistores que se tienen midiendo con las demás herramientas.
  _ Siempre tener la guía del sentido para poder resolver las mallas y cambia totalmente si se apaga una fuente o no, debido a que eso genera una corriente que pasa por los componentes.
  
