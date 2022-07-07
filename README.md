@@ -24,8 +24,12 @@ Andrés Sánchez
 
 ### 2.	MARCO TEÓRICO 
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea-4-/blob/main/Fotos/3.png)
+
+###### _FIGURA 1_
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea-4-/blob/main/Fotos/4.png)
 
+
+###### _FIGURA 2_
 
  
 ### 3.	EXPLICACIÓN DEL PROCEDIMIENTO
@@ -34,9 +38,13 @@ Andrés Sánchez
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/1.png)
 
+###### _FIGURA 3_
+
 - Diagrama de bloques
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/2.png)
+
+###### _FIGURA 4_
 
 ####	LISTA DE COMPONENTES
 
@@ -59,27 +67,40 @@ Se tiene que preparar los componentes antes de la construcción del circuito
 
 ![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
 
-###### _FIGURA 7_
+
+###### _FIGURA 5_
 
 Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 4.2.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/3.png)
 
+###### _FIGURA 6_
+
 Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 4.1.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/4.png)
 
+###### _FIGURA 7_
+
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/5.png)
+
+###### _FIGURA 8_
 
 Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 4.1.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/6.png)
 
+###### _FIGURA 9_
+
 Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 4.2.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/7.png)
 
+###### _FIGURA 10_
+
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/8.png)
+
+###### _FIGURA 11_
 
 #### MEDICIÓN
 
@@ -92,19 +113,29 @@ Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tab
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/9.png)
 
+###### _FIGURA 13_
+
 Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 4.1.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/10.png)
 
+###### _FIGURA 14_
+
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/11.png)
+
+###### _FIGURA 7_
 
 Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 4.1.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/12.png)
 
+###### _FIGURA 15_
+
 Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 4.2.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/13.png)
+
+###### _FIGURA 16_
 
 
 
@@ -115,7 +146,11 @@ Nota: No se tiene una fuente de 20 V y de 12 V, se reemplazó la fuente de 20 V 
 
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/16.png)
 
+###### _FIGURA 17_
+
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/17.png)
+
+###### _FIGURA 18_
  
 ### 4.	RESPUESTAS A INTERROGANTES
 
