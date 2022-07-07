@@ -53,6 +53,7 @@ Andrés Sánchez
  
 > (Herramientas utilizadas en simulación) 
 > Simulador thinkercad
+
 #### SIMULACIÓN
 Se tiene que preparar los componentes antes de la construcción del circuito
 
@@ -123,18 +124,12 @@ Nota: No se tiene una fuente de 20 V y de 12 V, se reemplazó la fuente de 20 V 
  
 ### 4.	RESPUESTAS A INTERROGANTES
 
-__4.1__ Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+_4.1_ Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
+_4.2_ Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.
+_4.3_ Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 4.1.
+_4.4_ Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 4.2.
 
-__4.2__ Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
-
-__4.3__ Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
-
-__4.4__ Medición de voltaje aplicando superposición.
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/15.png)
-
-__4.5__ Medición de corriente aplicando superposición.
-
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/16.png)
+Tabla 4.1
 
 #### Cálculos:
 
