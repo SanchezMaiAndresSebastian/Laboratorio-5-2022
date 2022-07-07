@@ -171,7 +171,7 @@ https://youtu.be/Qf3fwOyQK7Q
 ### 6.	CONCLUSIONES
 
  - Al momento de construir el circuito se debe tener en cuenta que tiene que conectarse correctamente los cables en el positivo y negativo de todos los instrumentos eléctricos los cuales si no se hacen correctamente pueden sufrir una disminución de la vida útil.
- - 
+ - El potenciometro tiene ttres terminales el cual son un que es de laseñal de entrad, la otra es la señal de salida y la otra es terminal tierra, pero con una disposición de union entre el terminal de señal de salida con la señal de salida de tierra, el potenciometro se puede utilizarse como un componenet de resistencia variable más conocido como reostato.
  - Cuando en un resistor se encuentra aplicado con el multímetro la medición de su corriente cambia el voltaje de los demás resistores que se tienen midiendo con las demás herramientas.
  _ Siempre tener la guía del sentido para poder resolver las mallas y cambia totalmente si se apaga una fuente o no, debido a que eso genera una corriente que pasa por los componentes.
  
