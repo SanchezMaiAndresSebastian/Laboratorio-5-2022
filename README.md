@@ -148,7 +148,7 @@ Nota: No se tiene una fuente de 20 V y de 12 V, se reemplazó la fuente de 20 V 
 
 ###### _FIGURA 17_
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/17.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-5-2022/blob/main/Fotos/18.png)
 
 ###### _FIGURA 18_
  
