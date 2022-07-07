@@ -42,13 +42,14 @@ Andrés Sánchez
 
 | Cantidad | Componentes | 
 | -------- | ----------- | 
-| 1 |Protoboard | 
 | 2 |Fuente de voltaje de C.D. | 
-| 2 |Multímetro | 
-| 1 |Resistencia 1 kΩ | 
-| 1 |Resistencia 2,2 kΩ | 
-| 1 |Resistencia 820 Ω | 
-| 1 |Resistencia 470 Ω | 
+| 2 |Multímetro |  
+| 1 |Resistencia 560 Ω |
+| 1 |Resistencia 4.7 kΩ | 
+| 1 |Resistencia 330 Ω |
+| 1 |Resistencia 100 Ω | 
+| 1 |Resistencia 1 kΩ |
+| 1 |Protoboard |
  
 > (Herramientas utilizadas en simulación) 
 > Simulador thinkercad
