@@ -165,8 +165,7 @@ Nota: No se tiene una fuente de 20 V y de 12 V, se reemplazó la fuente de 20 V 
 
 
 ### 5. VIDEOS
-
-https://youtu.be/Qf3fwOyQK7Q
+https://www.youtube.com/watch?v=YUdDsEPRHFo
 
 ### 6.	CONCLUSIONES
 
