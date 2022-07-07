@@ -60,26 +60,13 @@ Se tiene que preparar los componentes antes de la construcción del circuito
 ![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/3.png)
 
 ###### _FIGURA 7_
+Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 4.2.
 
-Se hace la creación del circuito del diagrama eléctrico en el Protoboard
+Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 4.1.
 
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/4.png)
+Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 4.1.
 
-###### _FIGURA 8_
-
-Se mide el voltaje en la Resistencia R3 y la corriente Ix
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/4.png)
-
-###### _FIGURA 9_
-
-Se mide el voltaje en la Resistencia R3 y la corriente Ix cuando V2 = 0
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/5.png)
-###### _FIGURA 10_
-
-
-Se mide el voltaje en la Resistencia R3 y la corriente Ix cuando V1 = 0
-![](https://github.com/SanchezMaiAndresSebastian/Lab4-2022/blob/main/Fotos/6.png)
-###### _FIGURA 11_
+Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 4.2.
 
 
 
